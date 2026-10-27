@@ -80,6 +80,5 @@ This is a suggested learning progression, not a mandatory certification sequence
 
 Combine official AWS exam preparation materials with hands-on automation, deployment, monitoring, and recovery exercises.
 
-- **Official AWS Resources**: Review the [DOP-C02 certification page](https://aws.amazon.com/certification/certified-devops-engineer-professional/) and the [official DOP-C02 exam guide](https://docs.aws.amazon.com/aws-certification/latest/devops-engineer-professional-02/devops-engineer-professional-02.html).
 - **CertsGate**: Explore [DOP-C02 certification preparation resources](https://certsgate.com/exams/amazon/dop-c02) for supplementary study materials and practice questions.
 - **Practical AWS Study**: Use the [AWS CloudFormation documentation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html) to practice infrastructure as code, repeatable deployments, and automated resource management.
